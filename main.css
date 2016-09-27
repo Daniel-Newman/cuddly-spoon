@@ -1,6 +1,7 @@
 .header-title{
 height: 15pc;
-background-color: red; 
+background-color: red;
+ position:absolute;
 }
 .header-title .lalpic img{
  margin : auto;
