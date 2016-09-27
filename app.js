@@ -1,7 +1,7 @@
 var main = function(){
 
   $(.header-title).click(function(){
-  $(.header-title).fadeOut();
+  $(.header-title).hide();
   
   }); 
   
