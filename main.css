@@ -3,7 +3,7 @@ height: 15pc;
 background-color: red; 
 }
 .lalpic img{
-margin-left: auto;
+margin-left: center;
 max-width: 1400px; 
 min-width: 850px;
 }
