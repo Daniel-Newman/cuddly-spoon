@@ -1,11 +1,11 @@
 var main = function(){
 
   $(.header-title).click(function(){
-  $(.header-title).hide();
+  $(.header-title).fadeOut(500);
   
   }); 
   
   
   
 }
-$(document).ready(main)
+$(document).ready(main);
