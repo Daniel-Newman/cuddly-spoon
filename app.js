@@ -1,7 +1,7 @@
 var main = function(){
 
-  $(.header-title).click(function(){
-  $(.header-title).fadeOut(500);
+  $(.'lalpic').click(function(){
+  $(.'header-title').fadeOut(500);
   
   }); 
   
