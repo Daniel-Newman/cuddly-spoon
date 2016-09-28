@@ -8,9 +8,13 @@ background-color: red;
 max-width: 1400px; 
 min-width: 850px;
  opacity: 0.5;
+ position:absolute;
+ z-index: -1;
+ left: 0px;
+ top: 0px;
 }
 .header-title .lalpic .text{
- position:absolute;
+
 text-align:center;
 margin-top: -50%;
  
