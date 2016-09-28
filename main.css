@@ -7,9 +7,10 @@ background-color: red;
  margin : auto;
 max-width: 1400px; 
 min-width: 850px;
+ opacity: 0.5;
 }
-.header-title .text{
- position:relative;
+.header-title .lalpic .text{
+ position:absolute;
 text-align:center;
  
 }
