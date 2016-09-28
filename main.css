@@ -7,10 +7,9 @@ background-color: red;
  margin : auto;
 max-width: 1400px; 
 min-width: 850px;
- z-index: -1;
 }
 .header-title .text{
  position:absolute;
 text-align:center;
-margin-top: 0; 
+ 
 }
