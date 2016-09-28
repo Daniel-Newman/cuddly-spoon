@@ -12,5 +12,6 @@ min-width: 850px;
 .header-title .lalpic .text{
  position:absolute;
 text-align:center;
+margin: -50%;
  
 }
