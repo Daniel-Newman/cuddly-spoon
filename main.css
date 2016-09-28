@@ -10,7 +10,7 @@ min-width: 850px;
  z-index: -1;
 }
 .header-title .text{
- position:relative;
+ position:absolute;
 text-align:center;
 margin-top: -50%; 
 }
