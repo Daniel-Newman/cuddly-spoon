@@ -10,7 +10,7 @@ min-width: 850px;
  opacity: 0.5;
 }
 .header-title .lalpic .text{
- position:absolute;
+ position:relative;
 text-align:center;
 margin-top: -50%;
  
