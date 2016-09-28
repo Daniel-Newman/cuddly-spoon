@@ -12,5 +12,5 @@ min-width: 850px;
 .header-title .text{
  position:absolute;
 text-align:center;
-margin-top: -50%; 
+margin-top: 0; 
 }
