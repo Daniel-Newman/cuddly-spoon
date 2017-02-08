@@ -1,0 +1,92 @@
+
+body{
+background-color:#FEFEFF;
+
+}
+.wrapper{
+width:918px;
+height:100%;
+margin:25px auto;
+background-color:#FEFEFF;
+  padding:3px;
+}
+.cntryboxes {
+  filter: drop-shadow(0px 0px 3px black 2px);
+    height: 300px;
+    width: 912px;
+  background-size: 912px 300px;
+}
+.cntryboxes:hover {
+background-size: 918px 306px;
+}
+.wrapper a {
+text-decoration:none;
+}
+.boxtxt {
+     margin: 3px 3px 3px 3px;
+    padding-top: 10%;
+    color: whitesmoke;
+    font-family: Arial Black, Myriad, cuckoo, boulder, fantasy;
+    font-size: 72px;
+    text-shadow: 2px 2px 18px black;
+    text-align: center;}
+
+#a{
+
+background-image: url("/clamber/us/apples.jpg");
+}
+#b {
+    margin: 6px 0px 6px 0px;
+background-image: url("/clamber/us/Hazelnuts.jpg");
+}
+#c{
+background-image: url("/clamber/us/potato.jpg");
+}
+.wrapper p{
+    text-align: center;
+    font-size: 40px;
+    font-family: monospace;
+    background-color: #234561;
+    border-radius: 2px;
+    color: white;
+    padding: 9px;
+}
+.squs{
+
+    background-color: #112332;
+    margin: 3px;
+    height: 300px;
+    width: 300px;
+    text-align: center;
+
+    font-size: 30px;
+}
+
+.squs div{
+ padding-top: 25%;
+    color: whitesmoke;
+    font-family: Arial Black, Myriad, cuckoo, boulder, fantasy;
+    font-size: 45px;
+    text-shadow: 2px 2px 18px black;
+
+
+}
+.trend{
+width:918px;
+margin:25px auto;
+position: relative;
+}
+#row1, #row2, #row3{
+float:left;
+background-size
+
+}
+#a1{
+background-image: url("/trump_inauguration.jpg");
+}
+#a2{
+background-image: url("/wdw.jpg");
+}
+#a3{
+background-image: url("/super-bowl-logo.jpg");
+}

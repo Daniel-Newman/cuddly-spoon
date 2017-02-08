@@ -1,0 +1,131 @@
+
+
+body{
+background-color:#DDE;
+}
+.wrapper{
+width:918px;
+margin:25px auto;
+background-color:#EFF;
+text-align: center;
+position: relative;
+}
+.menubar {
+  filter: drop-shadow(0px 0px 1px black);
+  border-radius: 2px;
+  width: 100%;
+  height: 120px;
+  background-color: #2773e6;
+}
+.menubar #colville {
+  padding: 5px;
+text-align: center;
+font-size: 75px;
+color: whitesmoke;
+font-family: Arial Black, Myriad, cuckoo, boulder, fantasy;
+text-shadow: 2px 4px 8px black;
+
+}
+.boxtxt{
+    padding-top: 35%;
+    color: whitesmoke;
+    font-family: Arial Black, Myriad, cuckoo, boulder, fantasy;
+    font-size: 45px;
+    text-shadow: 2px 2px 18px black;
+
+}
+
+#a1{
+
+
+ background-color:#1f5bb5;}
+#b1{
+
+
+ background-color:#246ad4;}
+#c1{
+
+
+}
+#a2{
+
+
+ background-color:#2369d1;
+
+
+}
+#b2{
+
+
+ background-color:#2773e6;}
+#c2{
+
+
+
+ background-color:#347be6;}
+#a3{
+
+
+background-color:#266fde;}
+#b3{
+
+
+background-color:#266fde;}
+#c3{
+
+height: 300px;
+ width: 300px;
+ background-color:#5291ef;
+}
+#d1{
+  height: 300px;
+   width: 300px;
+   background-color:#5291ef;
+  }
+#new{
+  font-size: 200px;
+  color: whitesmoke;
+  font-family: Arial Black, Myriad, cuckoo, boulder, fantasy;
+  text-shadow: 2px 2px 18px black;
+  width: 200px;
+  height: 200px;
+  background-color: #5291ef;
+  border-radius: 100%;
+  margin-left: 50px;
+  position: absolute;
+  margin-top: 50px;
+}
+#new div{
+margin-top: -50px;
+
+
+}
+#newform {
+height: 300px;
+ width: 300px;
+ background-color:#5291ef;
+ }
+.wrapper #a1,#a2 ,#a3,#b1,#b2,#b3,#c1,#c2,#c3 {
+ background-size: 300px 300px;
+margin: 0 0 6px 0;
+height: 300px;
+ width: 300px;
+ background-color:#266fde;
+}
+
+.wrapper #a1:hover, #a2:hover, #a3:hover, #b1:hover, #b2:hover, #b3:hover, #c1:hover, #c2:hover, #c3:hover {
+ background-size: 306px 306px;
+}
+.row1{
+float:left;
+margin: 3px;
+
+}
+.row2{
+float:left;
+margin: 3px;
+}
+.row3{
+float:left;
+margin: 3px;
+}
